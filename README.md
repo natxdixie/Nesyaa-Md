@@ -27,6 +27,7 @@
 <b><details><summary>Edit Config</summary>
 ```bash
 apikey = "YOURAPIKEY"
+ownerNumber = ["62812XXXX"]
 ```
 GET FREE APIKEY [HERE](https://zenzapi.xyz/)
 </b></details>
