@@ -1,7 +1,7 @@
 {
-  "name": "nesyaa-md",
+  "name": "Nesyaa-Md",
   "version": "1.0.0",
-  "description": "Example Base WhatsApp Bot Multi Device from my Rest APIs",
+  "description": "Example case from my Rest APIs for WhatsApp Bot. by using baileys multi-devices",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
