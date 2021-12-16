@@ -1,9 +1,9 @@
 ## Nesyaa-Md  
 
-<a href="https://github.com/zhwzein"><img title="Author" src="https://img.shields.io/badge/Author-Zhwzein-blue.svg?color=DC143C&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/zhwzein/Nesyaa-Md"><img title="Stars" src="https://img.shields.io/github/stars/zhwzein/Nesyaa-Md?color=DC143C&style=flat-square" /></a>
-<a href="https://github.com/zhwzein/Nesyaa-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zhwzein/Nesyaa-Md?color=DC143C&style=flat-square" /></a>
-<a href="https://github.com/zhwzein/Nesyaa-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zhwzein/Nesyaa-Md?label=watchers&color=DC143C&style=flat-square" /></a> <br>
+<a href="https://github.com/zhwzein"><img title="Author" src="https://img.shields.io/badge/Author-Zhwzein-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
+<a href="https://github.com/zhwzein/Nesyaa-Md"><img title="Stars" src="https://img.shields.io/github/stars/zhwzein/Nesyaa-Md?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/zhwzein/Nesyaa-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zhwzein/Nesyaa-Md?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/zhwzein/Nesyaa-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zhwzein/Nesyaa-Md?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
 ---
 
