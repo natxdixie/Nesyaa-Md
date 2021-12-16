@@ -6,7 +6,7 @@
 > Example case from my Rest APIs for WhatsApp Bot,
 > by using baileys multi-devices.
 
-> Also with familiar formatted
+> and with familiar formatted before
 
 </br>
 
@@ -19,7 +19,7 @@
 
 <!-- Requirements -->
 <b><details><summary>Requirements</summary>
-* Text Editor
+* Some Text Editor
 * [Node JS](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 </b></details>
@@ -60,3 +60,7 @@ SCAN THE QR USING YOUR WHATSAPP!
 ## Thanks to
 
   [`Baileys`](https://github.com/adiwajshing/Baileys)
+
+<p align="center">
+# This project will be updated as soon as possible
+</p>
