@@ -1,4 +1,14 @@
-## Nesyaa-Md  
+<p align="center">
+<img src="https://c.tenor.com/5Beb0m1Ip9wAAAAC/waifu-anime.gif" alt="nz" width="350"/>
+</p>
+
+## Nesyaa-Md
+> Example case from my Rest APIs for WhatsApp Bot,
+> by using baileys multi-devices.
+
+> Also with familiar formatted
+
+</br>
 
 <a href="https://github.com/zhwzein"><img title="Author" src="https://img.shields.io/badge/Author-Zhwzein-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
 <a href="https://github.com/zhwzein/Nesyaa-Md"><img title="Stars" src="https://img.shields.io/github/stars/zhwzein/Nesyaa-Md?color=54aeff&style=flat-square" /></a>
